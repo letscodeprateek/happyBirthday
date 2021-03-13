@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.hero img{
+    border-radius: 0px;
+}
+aside.right,  aside.left {
+    text-align:  center;
+    float: inherit;
+}
+.intro h1{
+    font-size: 42px;
+    text-align: center;
+}
+.p1{
+    padding: 19px;
+}
+h2{
+    font-size: 32px;
+}
+
+/* .p1,.p2,.p3,.p4,.p5{
+    text-align: center;
+} */
+body{
+    background-image: none;
+}
